@@ -8,17 +8,17 @@ Voici quelques résultats obtenus avec des fichiers PDF choisis au hasard:
 
 | Taille de départ | Taille à la sortie | % d'optimisation |
 | ---------------- | ------------------ | ---------------- |
-| 29 Kio           | 23 Kio             | 20 %             |
-| 363 Kio          | 72 Kio             | 80 %             |
-| 733 Kio          | 658 Kio            | 10 %             |
-| 991 Kio          | 349 Kio            | 65 %             |
-| 1,7 Mio          | 0,8 Mio            | 52 %             |
-| 1,9 Mio          | 1,1 Mio            | 40 %             |
-| 2,3 Mio          | 1,6 Mio            | 31 %             |
-| 3,4 Mio          | 1,3 Mio            | 60 %             |
-| 7,1 Mio          | 5,4 Mio            | 23 %             |
-| 14,8 Mio         | 9,4 Mio            | 36 %             |
-| 54,3 Mio         | 14,6 Mio           | 73 %             |
+| 29 Ko           | 23 Ko             | 20 %             |
+| 363 Ko          | 72 Ko             | 80 %             |
+| 733 Ko          | 658 Ko            | 10 %             |
+| 991 Ko          | 349 Ko            | 65 %             |
+| 1,7 Mo          | 0,8 Mo            | 52 %             |
+| 1,9 Mo          | 1,1 Mo            | 40 %             |
+| 2,3 Mo          | 1,6 Mo            | 31 %             |
+| 3,4 Mo          | 1,3 Mo            | 60 %             |
+| 7,1 Mo          | 5,4 Mo            | 23 %             |
+| 14,8 Mo         | 9,4 Mo            | 36 %             |
+| 54,3 Mo         | 14,6 Mo           | 73 %             |
 
 Bien sûr, ces chiffres sont donnés seulement à titre d'exemples. Le résultat ne sera sûrement pas le même avec d'autres fichiers de taille similaire. Tout dépend du contenu.
 
