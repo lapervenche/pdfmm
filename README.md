@@ -2,7 +2,7 @@
 
 pdfmm (for "pdf minus minus", or "pdf--") is a graphical assistant to reduce the size of PDF files.
 
-<img src="https://raw.githubusercontent.com/jpfleury/pdfmm/master/doc/exemple1-en.png" width="683" height="526" alt="Graphical assistant to reduce the size of PDF files" />
+<img src="https://raw.githubusercontent.com/jpfleury/pdfmm/master/doc/exemple1-fr.png" width="683" height="526" alt="Graphical assistant to reduce the size of PDF files" />
 
 Here are some results obtained with PDF files randomly selected:
 
